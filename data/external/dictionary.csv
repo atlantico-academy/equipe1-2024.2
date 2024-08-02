@@ -1,0 +1,16 @@
+variavel,descricao,tipo,subtipo
+ID,Identificador único do indivíduo testado,quantitativa,discreta
+Age,"Idade do indivíduo testado, em anos",quantitativa,discreta
+Gender,Gênero do indivíduo testado,qualitativa,nominal
+Bedtime,O horário em que o indivíduo testado vai para a cama todas as noites,quantitativa,contínua
+Wakeup time,O horário em que o indivíduo testado acorda todas as manhãs,quantitativa,contínua
+Sleep duration,Quantidade total de tempo em que o indivíduo testado dormiu (em horas),quantitativa,contínua
+Sleep efficiency,Medida da proporção de tempo na cama gasto dormindo,quantitativa,contínua
+REM sleep percentage,Percentual do tempo total gasto em sono REM,quantitativa,discreta
+Deep sleep percentage,Percentual do tempo total gasto em sono profundo,quantitativa,discreta
+Light sleep percentage,Percentual do tempo total gasto em sono leve,quantitativa,discreta
+Awakenings,O número de vezes em que o indivíduo testado acorda durante a noite,quantitativa,discreta
+Caffeine consumption,A quantidade de álcool consumido nas 24 horas anteriores a hora de dormir (em mg),quantitativa,discreta
+Alcohol consumption,A quantidade de álcool consumido nas 24 horas anteriores a hora de dormir (em oz),quantitativa,discreta
+Smoking status,Se o indivíduo testado é fumante ou não fumante,qualitativa,nominal
+Exercise frequency,O número de vezes por semana que o indivíduo testado fez exercícios,quantitativa,discreta
