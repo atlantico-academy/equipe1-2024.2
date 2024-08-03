@@ -8,7 +8,7 @@
 
 <p align="justify"> A qualidade do sono é vital para a saúde e o bem-estar. Problemas de sono podem causar distúrbios mentais, doenças cardiovasculares e baixa produtividade. Identificar fatores que afetam a eficiência do sono, como idade, gênero, horários de dormir, duração do sono, porcentagens de sono REM (profundo e leve), despertares, consumo de cafeína e álcool, tabagismo e exercícios, pode ajudar a criar estratégias para melhorar o sono e a saúde geral. Este projeto analisa dados diversificados para encontrar padrões úteis para profissionais de saúde, pesquisadores e o público, fornecendo uma base sólida para intervenções personalizadas.</p>
 
-## Resumo gráfico
+## Resumo Gráfico
 
 
 
