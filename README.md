@@ -8,15 +8,15 @@
 ![GitHub](https://img.shields.io/github/license/atlantico-academy/equipe1-2024.2.svg) [![PyPI](https://img.shields.io/pypi/v/atlantico-academy-equipe2-2024.1.svg)](http://pypi.org/project/atlantico-academy-equipe2-2024.1/) [![GitHub last commit](https://img.shields.io/github/last-commit/atlantico-academy/equipe1-2024.2.svg)](https://github.com/atlantico-academy/equipe1-2024.2/commit/developer)
 
 ## Base de Dados
-- [Sleep Efficience](https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency)
+<p align="justify">No estudo, foi utilizado o conjunto de dados <a href="https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency">Sleep Efficience</a>, disponível no Kaggle. A base de dados contém informações sobre idade, gênero, horários de dormir e acordar, duração do sono, porcentagem de sono leve, profundo e REM, número de despertares, consumo de cafeína e álcool, status de tabagismo e frequência de exercícios.</p>
 
 ## Objetivo do Projeto
 
-<p align="justify"> Este projeto tem como objetivo analisar e identificar padrões e correlações entre a eficiência do sono e aspectos diversos, como rotina e hábitos de consumo, que possam oferecer informações valiosas sobre os fatores que influenciam a qualidade do sono. A base de dados Sleep Efficience, disponível no Kaggle, inclui informações sobre idade, gênero, horários de dormir e acordar, duração do sono, porcentagem de sono leve, profundo e REM, número de despertares, consumo de cafeína e álcool, status de tabagismo e frequência de exercícios.</p>
-
+<p align="justify"> O objetivo deste projeto é analisar e identificar padrões e correlações entre a eficiência do sono e diversos fatores de estilo de vida, como rotinas e hábitos de consumo. Essas informações podem oferecer insights valiosos sobre os principais aspectos que influenciam a qualidade do sono.</p> 
+    
 ## Justificativa do Projeto
 
-<p align="justify"> A qualidade do sono é vital para a saúde e o bem-estar físico, mental e emocional. Problemas de sono podem causar distúrbios mentais, doenças cardiovasculares e baixa produtividade. Identificar fatores que afetam a eficiência do sono, como idade, gênero, horários de dormir, duração do sono, porcentagens de sono REM (profundo e leve), despertares, consumo de cafeína e álcool, tabagismo e exercícios, pode ajudar a criar estratégias para melhorar o sono e a saúde geral. Este projeto analisa dados diversificados com o propósito de encontrar padrões úteis para profissionais de saúde, pesquisadores e o público em geral, a fim de fornecer uma base sólida para intervenções personalizadas.</p>
+<p align="justify"> A qualidade do sono é essencial para a saúde e o bem-estar físico, mental e emocional. Dormir mal pode causar diversos problemas de saúde, tais como <strong>distúrbios mentais, doenças cardiovasculares e baixa produtividade.</strong>. A análise da eficiência do sono, considerando fatores, como idade, gênero, horários de dormir, duração do sono, porcentagens de sono leve, profundo e REM, despertares, consumo de cafeína e álcool, tabagismo e exercícios, pode contribuir para o desenvolvimento de estratégias que melhorem a qualidade do sono e a saúde em geral. Com base nos dados coletados, este projeto visa identificar insights e padrões úteis que possam ser aplicados por especialistas em saúde, pesquisadores e pelo público em geral, fornecendo uma base sólida para intervenções personalizadas.</p>
 
 ## Resumo Gráfico
 <div align="center">
