@@ -16,7 +16,9 @@
     
 ## Justificativa do Projeto
 
-<p align="justify"> A qualidade do sono é essencial para a saúde e o bem-estar físico, mental e emocional. Dormir mal pode causar diversos problemas de saúde, tais como <strong>distúrbios mentais, doenças cardiovasculares e baixa produtividade.</strong>. A análise da eficiência do sono, considerando fatores, como idade, gênero, horários de dormir, duração do sono, porcentagens de sono leve, profundo e REM, despertares, consumo de cafeína e álcool, tabagismo e exercícios, pode contribuir para o desenvolvimento de estratégias que melhorem a qualidade do sono e a saúde em geral. Com base nos dados coletados, este projeto visa identificar insights e padrões úteis que possam ser aplicados por especialistas em saúde, pesquisadores e pelo público em geral, fornecendo uma base sólida para intervenções personalizadas.</p>
+<p align="justify"> A qualidade do sono é essencial para a saúde e o bem-estar físico, mental e emocional, além de fortalecer o sistema imunológico, previne doenças e desempenhar um papel crucial no bom funcionamento do cérebro. Dormir mal pode afetar a produtividade e aumentar o risco de <strong>doenças cardiovasculares, doenças metabólicas e distúrbios mentais.</strong> 
+
+A análise da eficiência do sono, considerando fatores, como idade, gênero, horários de dormir, duração do sono, porcentagens de sono leve, profundo e REM, quantidade de despertares durante a noite, consumo de cafeína e álcool, tabagismo e prática de exercícios físicos, pode contribuir para o desenvolvimento de estratégias que melhorem a qualidade do sono e a saúde em geral. Com base nos dados coletados, este projeto visa identificar insights e padrões úteis que possam ser aplicados por especialistas em saúde, pesquisadores e pelo público em geral, fornecendo uma base sólida para intervenções personalizadas.</p>
 
 ## Resumo Gráfico
 <div align="center">
