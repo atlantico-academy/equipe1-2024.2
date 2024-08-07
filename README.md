@@ -3,12 +3,13 @@
 </div>
 
 # Análise da Eficiência do Sono
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Seaborn Badge](https://img.shields.io/badge/seaborn-%2300A2C1.svg?style=for-the-badge&logo=seaborn&color=444876&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
 
 ![GitHub](https://img.shields.io/github/license/atlantico-academy/equipe1-2024.2.svg) [![PyPI](https://img.shields.io/pypi/v/atlantico-academy-equipe2-2024.1.svg)](http://pypi.org/project/atlantico-academy-equipe2-2024.1/) [![GitHub last commit](https://img.shields.io/github/last-commit/atlantico-academy/equipe1-2024.2.svg)](https://github.com/atlantico-academy/equipe1-2024.2/commit/developer)
 
 ## Base de Dados
-<p align="justify">No estudo, foi utilizado o conjunto de dados <a href="https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency">Sleep Efficience</a>, disponível no Kaggle. A base de dados contém informações sobre idade, gênero, horários de dormir e acordar, duração do sono, porcentagem de sono leve, profundo e REM, número de despertares, consumo de cafeína e álcool, status de tabagismo e frequência de exercícios.</p>
+<p align="justify">No estudo, foi utilizado o conjunto de dados <a href="https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency">Sleep Efficience</a>, disponível no site do Kaggle. A base de dados contém informações sobre idade, gênero, horários de dormir e acordar, duração do sono, porcentagem de sono leve, profundo e REM, número de despertares, consumo de cafeína e álcool, status de tabagismo e frequência de exercícios.</p>
 
 ## Objetivo do Projeto
 
