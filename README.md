@@ -3,7 +3,7 @@
 </div>
 
 # Análise da Eficiência do Sono
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Seaborn Badge](https://img.shields.io/badge/seaborn-%2300A2C1.svg?style=for-the-badge&logo=seaborn&color=444876&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Seaborn Badge](https://img.shields.io/badge/seaborn-%2300A2C1.svg?style=for-the-badge&logo=seaborn&color=444876&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
 ![GitHub](https://img.shields.io/github/license/atlantico-academy/equipe1-2024.2.svg) [![PyPI](https://img.shields.io/pypi/v/atlantico-academy-equipe2-2024.1.svg)](http://pypi.org/project/atlantico-academy-equipe2-2024.1/) [![GitHub last commit](https://img.shields.io/github/last-commit/atlantico-academy/equipe1-2024.2.svg)](https://github.com/atlantico-academy/equipe1-2024.2/commit/developer)
@@ -13,13 +13,13 @@
 
 ## Objetivo do Projeto
 
-<p align="justify"> O objetivo deste projeto é analisar e identificar padrões e correlações entre a eficiência do sono e diversos fatores de estilo de vida, como rotinas e hábitos de consumo. Essas informações podem oferecer insights valiosos sobre os principais aspectos que influenciam a qualidade do sono.</p> 
+<p align="justify"> O objetivo deste projeto é analisar e identificar padrões e correlações entre a eficiência do sono e diversos fatores de estilo de vida. Tais informações podem oferecer insights valiosos sobre os principais aspectos que influenciam a qualidade do sono.</p> 
     
 ## Justificativa do Projeto
 
-<p align="justify"> A qualidade do sono é essencial para a saúde e o bem-estar físico, mental e emocional, além de fortalecer o sistema imunológico, previne doenças e desempenhar um papel crucial no bom funcionamento do cérebro. Dormir mal pode afetar a produtividade e aumentar o risco de <strong>doenças cardiovasculares, doenças metabólicas e distúrbios mentais.</strong> 
+<p align="justify"> A qualidade do sono é essencial para a saúde e o bem-estar físico, mental e emocional. Dormir mal pode afetar a <strong>produtividade</strong> e aumentar o risco de <strong>doenças cardiovasculares, doenças metabólicas e distúrbios mentais.</strong> 
 
-A análise da eficiência do sono, considerando fatores, como idade, gênero, horários de dormir, duração do sono, porcentagens de sono leve, profundo e REM, quantidade de despertares durante a noite, consumo de cafeína e álcool, tabagismo e prática de exercícios físicos, pode contribuir para o desenvolvimento de estratégias que melhorem a qualidade do sono e a saúde em geral. Com base nos dados coletados, este projeto visa identificar insights e padrões úteis que possam ser aplicados por especialistas em saúde, pesquisadores e pelo público em geral, fornecendo uma base sólida para intervenções personalizadas.</p>
+A análise da eficiência do sono, considerando fatores de estilo de vida, como rotinas e hábitos de consumo, pode contribuir para o desenvolvimento de estratégias que influenciem na melhoria da qualidade do sono e a saúde em geral. Com base nos dados coletados, este projeto visa identificar insights e padrões úteis que possam ser aplicados por especialistas em saúde, pesquisadores e pelo público em geral, fornecendo uma base sólida para intervenções personalizadas.</p>
 
 ## Resumo Gráfico
 <div align="center">
